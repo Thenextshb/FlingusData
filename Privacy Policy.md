@@ -44,7 +44,7 @@ Flingus relies on these companies to work. Each handles data under its own priva
 | --- | --- | --- |
 | [PlayFab (Microsoft)](https://privacy.microsoft.com/privacystatement) | Accounts, saved data, Scraps, cosmetics, bans | Device ID, player ID, name, saved game data |
 | [Photon (Exit Games)](https://www.photonengine.com/privacy) | Multiplayer rooms and voice chat | Player ID, name, room, voice audio, IP address |
-| [Meta](https://www.meta.com/legal/privacy-policy/) | The Quest platform and store | Whatever Meta collects under its own policy |
+| [Meta](https://www.meta.com/legal/privacy-policy/) | The Quest platform and store, and checking that your Meta account owns Flingus when the game starts | Whatever Meta collects under its own policy. We do not receive or store your Meta account details |
 | [LIV](https://www.liv.tv/privacy) | Optional in-game camera for recording | Only if you choose to use it |
 
 ## Voice chat
@@ -59,10 +59,12 @@ To keep Flingus fair and safe, our moderators can see your player name, player I
 
 Players who break the rules can be warned or banned. Using a modified copy of the game can get your account banned permanently.
 
-## Kids
-
-Flingus is for players 13 and older. If you are under 13, do not play Flingus. We do not knowingly collect personal information from children under 13, and any account we find that belongs to a child under 13 will be banned and its data deleted.
-
 ## Keeping your data
 
 We keep your account data while you play Flingus. Moderation records, such as bans, are kept as long as needed to keep the game safe.
+
+## Changes to this policy
+
+We may update this policy as the game changes. The newest version is always at this page, and the date below shows when it last changed.
+
+Last updated: November 3, 2026
