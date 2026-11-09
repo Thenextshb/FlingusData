@@ -20,7 +20,9 @@ We do not ask for your real name, email, age, or payment details. The game colle
 | Moderator actions on your account (warnings, bans, gifts) | Moderation |
 | Information about your copy of the game, such as whether it has been modified | Anti-cheat |
 | Your voice, while you are in a room | Live voice chat with nearby players |
+| Your Meta user ID, from Meta | Checking real-money purchases made through the Meta store and giving you what you bought. It is saved with your Flingus account |
 | Your Meta account's age group (child, teen or adult), from Meta | Turning off real-money purchases for children |
+| Your purchases of Scraps and bundles | Giving you what you bought and keeping it on your account. Payment itself is handled by Meta; we never see your card or payment details |
 | Your IP address | Connecting you to rooms and voice chat (handled by Photon, not stored by us) |
 
 The game may also save a log file on your headset to help find bugs. It stays on your headset unless you send it to us.
@@ -46,7 +48,7 @@ Flingus relies on these companies to work. Each handles data under its own priva
 | --- | --- | --- |
 | [PlayFab (Microsoft)](https://privacy.microsoft.com/privacystatement) | Accounts, saved data, Scraps, cosmetics, bans | Device ID, player ID, name, saved game data |
 | [Photon (Exit Games)](https://www.photonengine.com/privacy) | Multiplayer rooms and voice chat | Player ID, name, room, voice audio, IP address |
-| [Meta](https://www.meta.com/legal/privacy-policy/) | The Quest platform and store, and checking that your Meta account owns Flingus when the game starts | Whatever Meta collects under its own policy. We do not receive or store your Meta account details |
+| [Meta](https://www.meta.com/legal/privacy-policy/) | The Quest platform and store, and checking that your Meta account owns Flingus when the game starts | Meta handles payments and collects data under its own policy. Meta gives us only your Meta user ID and your account's age group |
 | [LIV](https://www.liv.tv/privacy) | Optional in-game camera for recording | Only if you choose to use it |
 
 ## Voice chat
@@ -86,6 +88,7 @@ To ask, email **rabdabggg@gmail.com** with the subject "Delete my Flingus data" 
 We will reply to confirm, and delete your data within 30 days. This deletes:
 
 - Your Flingus account and player ID
+- The Meta user ID saved with your account, and your purchase records
 - Your in-game name, monke color and cosmetics
 - Your Scraps balance and the cosmetics you own
 - The rooms you joined, reports and anti-cheat records linked to your account
